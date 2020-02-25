@@ -1,1 +1,1 @@
-# jQuery---Movie-List-UI
+# jQuery Movie-List-UI
